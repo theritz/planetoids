@@ -6,7 +6,8 @@ In the notebook we'll read in all the asteroid (planetoid, actually bcs they loo
 - plot them in a 3D matrix in relation to Earth
 - use clustering to see if we can identify known planetoid 'families'
 
-The code uses the file 'mpcorb_extended.json' from the working dir. The file itself you can find at the MPC site here https://www.minorplanetcenter.net/data
+The code uses the file 'mpcorb_extended.json' from the working dir. The file itself you can find at the MPC site here https://www.minorplanetcenter.net/data.
+If the file takes too long to load you can simply cut out data taking care not to mess up the json structure.
 
 _This research has made use of data and/or services provided by the International Astronomical Union's Minor Planet Center._
 
